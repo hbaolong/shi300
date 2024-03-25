@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "1_国风·周南·关雎",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 220.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hbaolong/workshop/shi300"
+	],
+	"file_history":
+	[
+		"/Users/hbaolong/Documents/MyTXT/lunyu/25年3月/论语_366_2025年3月1日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/512天论语同读.sublime-project",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/tmp",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_001_2024年3月1日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/聊天记录/2024年3月10日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_010_2024年3月10日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_025_2024年3月25日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_011_2024年3月11日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_007_2024年3月7日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_006_2024年3月6日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_005_2024年3月5日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_004_2024年3月4日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_003_2024年3月3日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/25年2月/论语_339_2025年2月2日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/25年2月/论语_338_2025年2月1日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_008_2024年3月8日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/聊天记录/2024年3月9日",
+		"/Users/hbaolong/Documents/MyTXT/lunyu/3月/论语_009_2024年3月9日",
+		"/Users/hbaolong/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/hbaolong/Documents/MyTXT/论语007",
+		"/Users/hbaolong/Documents/MyTXT/论语005",
+		"/Users/hbaolong/Documents/MyTXT/论语006",
+		"/Users/hbaolong/Documents/MyTXT/论语004",
+		"/Users/hbaolong/Documents/MyTXT/论语003",
+		"/Users/hbaolong/Documents/MyTXT/论语008",
+		"/Users/hbaolong/Downloads/1111",
+		"/Users/hbaolong/Documents/MyTXT/论语512天.sublime-workspace",
+		"/Users/hbaolong/Downloads/untitled",
+		"/Users/hbaolong/Downloads/111",
+		"/Users/hbaolong/Downloads/222",
+		"/Users/hbaolong/Documents/MyTXT/72贤人",
+		"/Users/hbaolong/Documents/MyTXT/易经/谦卦",
+		"/Users/hbaolong/1",
+		"/Users/hbaolong/Documents/MyTXT/0字",
+		"/Users/hbaolong/Documents/MyTXT/【圈子】",
+		"/Users/hbaolong/Documents/MyTXT/昨天从海外一些媒体看到，灾区一些家长捧着遇难子女的照片请愿，要求通过法律诉讼来惩处一些造成房屋倒塌的",
+		"/Users/hbaolong/Documents/MyTXT/大额保单成交攻略-同读",
+		"/Users/hbaolong/Documents/MyTXT/untitled",
+		"/Users/hbaolong/Documents/MyTXT/领读安排",
+		"/Users/hbaolong/Documents/MyTXT/我是小宝，孔子的第七十三个大弟子。",
+		"/Users/hbaolong/Documents/MyTXT/有一天，有子向曾子请教：“你向老师请教过关于丧失官位以后怎么办的问题么？”",
+		"/Users/hbaolong/Documents/MyTXT/论语",
+		"/Users/hbaolong/Downloads/夜航船.mobi",
+		"/Users/hbaolong/Downloads/陶庵梦忆.txt-陶庵梦忆.txt",
+		"/00000001043461636211306101213511646341162421337020",
+		"/Users/hbaolong/Downloads/先秦作者_古诗文网.html",
+		"/Users/hbaolong/Downloads/两汉作者_古诗文网.html",
+		"/Users/hbaolong/Downloads/唐诗三百首全集_古诗文网.html",
+		"/Users/hbaolong/Downloads/tangshi.aspx",
+		"/Users/hbaolong/Downloads/cihua",
+		"/Users/hbaolong/Downloads/二十四史（全集）.txt",
+		"/Users/hbaolong/Downloads/中国素女经-中国素女经.txt",
+		"/Users/hbaolong/Documents/孝经1.md",
+		"/Users/hbaolong/Downloads/文明的故事（全11卷）.txt",
+		"/Users/hbaolong/Documents/智慧果",
+		"/Users/hbaolong/Downloads/三国演义-第三同读版.txt",
+		"/Users/hbaolong/Downloads/三国志 2",
+		"/Users/hbaolong/Downloads/昭明文选.txt"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "1_国风·周南·关雎",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shi300.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
